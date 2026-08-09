@@ -6,10 +6,10 @@
 ![GitHub](https://img.shields.io/github/license/mauricio-acuna/producto2-ia)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mauricio-acuna/producto2-ia)
 
-[![Memory Portal Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](./README.md)
+[![Memory Portal Status](https://img.shields.io/badge/Status-educational%20prototype-yellow)](./README.md)
 [![Lessons Complete](https://img.shields.io/badge/Lessons-6%2F6%20Complete-success)](./src/modules/module-c/lessons/)
-[![Test Coverage](https://img.shields.io/badge/Test%20Coverage-95%25%2B-brightgreen)](./src/tests/portal-integration.test.js)
-[![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-blue)](./README.md)
+[![Tests](https://img.shields.io/badge/tests-present-blue)](./src/tests/portal-integration.test.js)
+[![Accessibility](https://img.shields.io/badge/accessibility-review%20pending-yellow)](./README.md)
 
 ## 📋 **Tabla de Contenidos**
 
@@ -77,8 +77,8 @@ Memory Systems Portal
 - **Responsive Design**: Optimizado para Desktop, Tablet y Mobile
 - **Dark Mode Support**: Tema claro/oscuro con preferencias del sistema
 
-#### 🧪 **Testing Comprehensivo (95%+ Coverage)**
-- **114 Test Cases**: Cubriendo funcionalidad, performance, accessibility, error handling
+#### 🧪 **Testing**
+- **Test suite incluida**: La cobertura y el número de casos deben medirse en CI antes de declararse.
 - **Integration Tests**: Flujos completos end-to-end
 - **Performance Tests**: Budgets de rendimiento y memory leaks
 - **Cross-browser Tests**: Chrome, Firefox, Safari, Edge
