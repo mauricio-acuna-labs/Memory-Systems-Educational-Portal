@@ -10,7 +10,7 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/mauricio-acuna/producto2-ia.git
+   git clone https://github.com/mauricio-acuna-labs/Memory-Systems-Educational-Portal.git
    cd producto2-ia
    ```
 
